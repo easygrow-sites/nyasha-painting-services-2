@@ -6,8 +6,8 @@
     "email": "jennamorrison@gmail.com",
     "address": "123 Main Street, Perth",
     "suburb": "Perth",
-    "city": "Brisbane",
-    "state": "QLD",
+    "city": "Perth",
+    "state": "WA",
     "postcode": "4000",
     "country": "Australia",
     "service": "Painter",
@@ -296,41 +296,41 @@
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 1",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=800&h=600&fit=crop",
+      "alt": "Interior Painting",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 2",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "alt": "Exterior Painting",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1513880989635-6eb491ce7f5b?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 3",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1513880989635-6eb491ce7f5b?w=800&h=600&fit=crop",
+      "alt": "Roof Painting",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 4",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "alt": "Commercial Painting",
+      "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 5",
-      "category": "Featured"
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
+      "alt": "Cabinet & Furniture",
+      "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=600&h=600&fit=crop",
-      "alt": "Our work - Example 6",
-      "category": "Recent"
+      "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=800&h=600&fit=crop",
+      "alt": "Wallpaper & Feature Walls",
+      "category": "Commercial"
     }
   ],
   "seo": {
-    "siteName": "Nyasha painting services Brisbane",
+    "siteName": "Nyasha painting services Perth",
     "siteUrl": "https://nyashapaintingservices.com.au",
-    "title": "Nyasha painting services | Best Painter Brisbane | Perth Painter",
-    "description": "Brisbane's top-rated painter in Perth. Expert service, premium quality. Award-winning team, competitive prices. Book online today!",
+    "title": "Nyasha painting services | Painter Perth | Professional Painter",
+    "description": "Perth's top-rated painter service. Expert residential and commercial painter. Servicing Perth & surrounding areas. Call 0433216418.",
     "keywords": [
       "painter brisbane",
       "painter perth",
